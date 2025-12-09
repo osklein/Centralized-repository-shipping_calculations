@@ -1,5 +1,4 @@
 # Here is a new update by osklein
-# Here is another update by osklein
 
 # Shipping Cost Calculator
 
